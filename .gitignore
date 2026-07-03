@@ -1,3 +1,5 @@
 app.json
 .snapshots
 *.app
+.vscode/.alcache
+.vscode/.altemplates
