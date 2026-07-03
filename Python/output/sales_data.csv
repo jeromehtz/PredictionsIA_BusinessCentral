@@ -1,0 +1,1021 @@
+﻿;ItemNo;Nom;UnitPrice;LineAmount;Quantity;DocumentDate
+0;1896-S;Bureau ATHÈNES;1005.8;8046.0;8;10/10/2027
+1;1896-S;Bureau ATHÈNES;1005.8;4023.0;4;10/11/2029
+2;1896-S;Bureau ATHÈNES;1005.8;7041.0;7;08/03/2033
+3;1896-S;Bureau ATHÈNES;1005.8;15087.0;15;24/09/2029
+4;1896-S;Bureau ATHÈNES;1005.8;18104.0;18;22/12/2026
+5;1896-S;Bureau ATHÈNES;1005.8;6035.0;6;07/06/2034
+6;1896-S;Bureau ATHÈNES;1005.8;7041.0;7;09/06/2028
+7;1896-S;Bureau ATHÈNES;1005.8;5029.0;5;01/06/2029
+8;1896-S;Bureau ATHÈNES;1005.8;18104.0;18;05/08/2028
+9;1896-S;Bureau ATHÈNES;1005.8;7041.0;7;23/10/2035
+10;1896-S;Bureau ATHÈNES;1005.8;12070.0;12;13/10/2032
+11;1896-S;Bureau ATHÈNES;1005.8;8046.0;8;01/12/2030
+12;1896-S;Bureau ATHÈNES;1005.8;14081.0;14;27/01/2033
+13;1896-S;Bureau ATHÈNES;1005.8;5029.0;5;08/01/2034
+14;1896-S;Bureau ATHÈNES;1005.8;4023.0;4;07/11/2029
+15;1896-S;Bureau ATHÈNES;1005.8;6035.0;6;21/05/2029
+16;1896-S;Bureau ATHÈNES;1005.8;8046.0;8;26/02/2032
+17;1896-S;Bureau ATHÈNES;1005.8;11064.0;11;25/02/2032
+18;1896-S;Bureau ATHÈNES;1005.8;15087.0;15;10/05/2033
+19;1896-S;Bureau ATHÈNES;1005.8;2012.0;2;01/02/2028
+20;1900-S;Chaise dactylo PARIS, noire;193.7;968.0;5;01/10/2035
+21;1900-S;Chaise dactylo PARIS, noire;193.7;2131.0;11;19/08/2034
+22;1900-S;Chaise dactylo PARIS, noire;193.7;387.0;2;04/10/2034
+23;1900-S;Chaise dactylo PARIS, noire;193.7;1550.0;8;20/11/2031
+24;1900-S;Chaise dactylo PARIS, noire;193.7;2712.0;14;08/07/2031
+25;1900-S;Chaise dactylo PARIS, noire;193.7;581.0;3;15/05/2029
+26;1900-S;Chaise dactylo PARIS, noire;193.7;1356.0;7;09/12/2031
+27;1900-S;Chaise dactylo PARIS, noire;193.7;2131.0;11;05/02/2034
+28;1900-S;Chaise dactylo PARIS, noire;193.7;194.0;1;01/03/2035
+29;1900-S;Chaise dactylo PARIS, noire;193.7;1162.0;6;03/10/2027
+30;1900-S;Chaise dactylo PARIS, noire;193.7;1743.0;9;18/09/2035
+31;1900-S;Chaise dactylo PARIS, noire;193.7;2712.0;14;10/06/2027
+32;1900-S;Chaise dactylo PARIS, noire;193.7;1550.0;8;29/10/2026
+33;1900-S;Chaise dactylo PARIS, noire;193.7;2324.0;12;30/07/2033
+34;1900-S;Chaise dactylo PARIS, noire;193.7;387.0;2;16/08/2028
+35;1900-S;Chaise dactylo PARIS, noire;193.7;2131.0;11;13/11/2033
+36;1900-S;Chaise dactylo PARIS, noire;193.7;581.0;3;19/01/2035
+37;1900-S;Chaise dactylo PARIS, noire;193.7;3487.0;18;16/07/2034
+38;1900-S;Chaise dactylo PARIS, noire;193.7;3680.0;19;25/06/2027
+39;1900-S;Chaise dactylo PARIS, noire;193.7;2518.0;13;26/10/2033
+40;1906-S;Socle mobile ATHÈNES;435.8;1743.0;4;04/02/2027
+41;1906-S;Socle mobile ATHÈNES;435.8;6973.0;16;11/05/2027
+42;1906-S;Socle mobile ATHÈNES;435.8;1307.0;3;20/05/2029
+43;1906-S;Socle mobile ATHÈNES;435.8;872.0;2;28/06/2026
+44;1906-S;Socle mobile ATHÈNES;435.8;8280.0;19;22/09/2033
+45;1906-S;Socle mobile ATHÈNES;435.8;4794.0;11;16/10/2026
+46;1906-S;Socle mobile ATHÈNES;435.8;2179.0;5;24/04/2034
+47;1906-S;Socle mobile ATHÈNES;435.8;7844.0;18;26/05/2027
+48;1906-S;Socle mobile ATHÈNES;435.8;872.0;2;22/03/2027
+49;1906-S;Socle mobile ATHÈNES;435.8;1743.0;4;10/07/2035
+50;1906-S;Socle mobile ATHÈNES;435.8;3051.0;7;21/05/2034
+51;1906-S;Socle mobile ATHÈNES;435.8;3922.0;9;29/06/2029
+52;1906-S;Socle mobile ATHÈNES;435.8;2615.0;6;22/12/2030
+53;1906-S;Socle mobile ATHÈNES;435.8;436.0;1;15/01/2035
+54;1906-S;Socle mobile ATHÈNES;435.8;2179.0;5;07/01/2032
+55;1906-S;Socle mobile ATHÈNES;435.8;8280.0;19;03/09/2028
+56;1906-S;Socle mobile ATHÈNES;435.8;3922.0;9;11/04/2032
+57;1906-S;Socle mobile ATHÈNES;435.8;3922.0;9;01/08/2031
+58;1906-S;Socle mobile ATHÈNES;435.8;6101.0;14;02/03/2033
+59;1906-S;Socle mobile ATHÈNES;435.8;4794.0;11;20/10/2029
+60;1908-S;Chaise pivotante LONDRES, bleue;191.0;3056.0;16;31/03/2036
+61;1908-S;Chaise pivotante LONDRES, bleue;191.0;764.0;4;10/02/2029
+62;1908-S;Chaise pivotante LONDRES, bleue;191.0;2292.0;12;11/01/2028
+63;1908-S;Chaise pivotante LONDRES, bleue;191.0;764.0;4;04/01/2028
+64;1908-S;Chaise pivotante LONDRES, bleue;191.0;1146.0;6;15/08/2031
+65;1908-S;Chaise pivotante LONDRES, bleue;191.0;573.0;3;21/07/2031
+66;1908-S;Chaise pivotante LONDRES, bleue;191.0;955.0;5;29/08/2031
+67;1908-S;Chaise pivotante LONDRES, bleue;191.0;2292.0;12;12/07/2029
+68;1908-S;Chaise pivotante LONDRES, bleue;191.0;382.0;2;04/03/2027
+69;1908-S;Chaise pivotante LONDRES, bleue;191.0;1528.0;8;22/08/2027
+70;1908-S;Chaise pivotante LONDRES, bleue;191.0;3629.0;19;19/08/2030
+71;1908-S;Chaise pivotante LONDRES, bleue;191.0;764.0;4;11/04/2033
+72;1908-S;Chaise pivotante LONDRES, bleue;191.0;3438.0;18;26/01/2028
+73;1908-S;Chaise pivotante LONDRES, bleue;191.0;382.0;2;27/11/2028
+74;1908-S;Chaise pivotante LONDRES, bleue;191.0;3247.0;17;26/08/2030
+75;1908-S;Chaise pivotante LONDRES, bleue;191.0;573.0;3;06/08/2033
+76;1908-S;Chaise pivotante LONDRES, bleue;191.0;3056.0;16;02/09/2027
+77;1908-S;Chaise pivotante LONDRES, bleue;191.0;2483.0;13;20/12/2028
+78;1908-S;Chaise pivotante LONDRES, bleue;191.0;764.0;4;03/09/2033
+79;1908-S;Chaise pivotante LONDRES, bleue;191.0;764.0;4;25/10/2033
+80;1920-S;Table de conférence ANVERS;651.1;9766.0;15;11/02/2035
+81;1920-S;Table de conférence ANVERS;651.1;3907.0;6;11/04/2035
+82;1920-S;Table de conférence ANVERS;651.1;7162.0;11;27/02/2032
+83;1920-S;Table de conférence ANVERS;651.1;5209.0;8;20/04/2033
+84;1920-S;Table de conférence ANVERS;651.1;1953.0;3;17/07/2032
+85;1920-S;Table de conférence ANVERS;651.1;8464.0;13;03/06/2026
+86;1920-S;Table de conférence ANVERS;651.1;8464.0;13;04/09/2026
+87;1920-S;Table de conférence ANVERS;651.1;10418.0;16;13/02/2027
+88;1920-S;Table de conférence ANVERS;651.1;651.0;1;16/08/2035
+89;1920-S;Table de conférence ANVERS;651.1;4558.0;7;12/05/2026
+90;1920-S;Table de conférence ANVERS;651.1;11720.0;18;09/12/2030
+91;1920-S;Table de conférence ANVERS;651.1;8464.0;13;21/08/2027
+92;1920-S;Table de conférence ANVERS;651.1;5860.0;9;03/09/2033
+93;1920-S;Table de conférence ANVERS;651.1;7162.0;11;24/07/2034
+94;1920-S;Table de conférence ANVERS;651.1;2604.0;4;22/04/2035
+95;1920-S;Table de conférence ANVERS;651.1;651.0;1;06/09/2027
+96;1920-S;Table de conférence ANVERS;651.1;12371.0;19;07/12/2026
+97;1920-S;Table de conférence ANVERS;651.1;11069.0;17;18/03/2031
+98;1920-S;Table de conférence ANVERS;651.1;5209.0;8;26/10/2032
+99;1920-S;Table de conférence ANVERS;651.1;7813.0;12;15/07/2029
+100;1925-W;Offre groupée conférence 1-6;189.8;2657.0;14;20/07/2029
+101;1925-W;Offre groupée conférence 1-6;189.8;2088.0;11;05/10/2029
+102;1925-W;Offre groupée conférence 1-6;189.8;3416.0;18;09/03/2031
+103;1925-W;Offre groupée conférence 1-6;189.8;3416.0;18;28/10/2034
+104;1925-W;Offre groupée conférence 1-6;189.8;1518.0;8;31/01/2032
+105;1925-W;Offre groupée conférence 1-6;189.8;3227.0;17;19/02/2032
+106;1925-W;Offre groupée conférence 1-6;189.8;2847.0;15;01/01/2034
+107;1925-W;Offre groupée conférence 1-6;189.8;380.0;2;01/06/2030
+108;1925-W;Offre groupée conférence 1-6;189.8;2278.0;12;01/07/2034
+109;1925-W;Offre groupée conférence 1-6;189.8;380.0;2;15/04/2035
+110;1925-W;Offre groupée conférence 1-6;189.8;1708.0;9;22/12/2034
+111;1925-W;Offre groupée conférence 1-6;189.8;2088.0;11;18/06/2032
+112;1925-W;Offre groupée conférence 1-6;189.8;569.0;3;18/05/2031
+113;1925-W;Offre groupée conférence 1-6;189.8;2847.0;15;18/07/2031
+114;1925-W;Offre groupée conférence 1-6;189.8;1139.0;6;17/03/2029
+115;1925-W;Offre groupée conférence 1-6;189.8;3037.0;16;01/01/2034
+116;1925-W;Offre groupée conférence 1-6;189.8;3227.0;17;17/05/2032
+117;1925-W;Offre groupée conférence 1-6;189.8;3416.0;18;21/10/2034
+118;1925-W;Offre groupée conférence 1-6;189.8;569.0;3;13/03/2033
+119;1925-W;Offre groupée conférence 1-6;189.8;2657.0;14;13/01/2036
+120;1928-S;Lampe AMSTERDAM;55.2;552.0;10;23/02/2030
+121;1928-S;Lampe AMSTERDAM;55.2;55.0;1;03/07/2029
+122;1928-S;Lampe AMSTERDAM;55.2;828.0;15;02/01/2032
+123;1928-S;Lampe AMSTERDAM;55.2;607.0;11;19/07/2033
+124;1928-S;Lampe AMSTERDAM;55.2;386.0;7;28/09/2035
+125;1928-S;Lampe AMSTERDAM;55.2;442.0;8;18/06/2026
+126;1928-S;Lampe AMSTERDAM;55.2;331.0;6;12/09/2033
+127;1928-S;Lampe AMSTERDAM;55.2;331.0;6;07/01/2028
+128;1928-S;Lampe AMSTERDAM;55.2;1049.0;19;10/04/2029
+129;1928-S;Lampe AMSTERDAM;55.2;938.0;17;05/12/2028
+130;1928-S;Lampe AMSTERDAM;55.2;938.0;17;07/12/2028
+131;1928-S;Lampe AMSTERDAM;55.2;552.0;10;09/05/2029
+132;1928-S;Lampe AMSTERDAM;55.2;828.0;15;06/03/2028
+133;1928-S;Lampe AMSTERDAM;55.2;55.0;1;22/11/2034
+134;1928-S;Lampe AMSTERDAM;55.2;718.0;13;08/03/2030
+135;1928-S;Lampe AMSTERDAM;55.2;497.0;9;26/05/2028
+136;1928-S;Lampe AMSTERDAM;55.2;552.0;10;15/03/2029
+137;1928-S;Lampe AMSTERDAM;55.2;938.0;17;25/06/2026
+138;1928-S;Lampe AMSTERDAM;55.2;442.0;8;12/01/2036
+139;1928-S;Lampe AMSTERDAM;55.2;718.0;13;02/08/2030
+140;1929-W;Offre groupée conférence 1-8;235.0;4230.0;18;29/07/2035
+141;1929-W;Offre groupée conférence 1-8;235.0;1880.0;8;24/07/2031
+142;1929-W;Offre groupée conférence 1-8;235.0;4230.0;18;29/11/2027
+143;1929-W;Offre groupée conférence 1-8;235.0;4230.0;18;28/02/2031
+144;1929-W;Offre groupée conférence 1-8;235.0;2585.0;11;19/12/2035
+145;1929-W;Offre groupée conférence 1-8;235.0;2585.0;11;20/03/2029
+146;1929-W;Offre groupée conférence 1-8;235.0;3055.0;13;30/03/2035
+147;1929-W;Offre groupée conférence 1-8;235.0;3995.0;17;23/07/2029
+148;1929-W;Offre groupée conférence 1-8;235.0;3290.0;14;06/04/2034
+149;1929-W;Offre groupée conférence 1-8;235.0;470.0;2;03/01/2031
+150;1929-W;Offre groupée conférence 1-8;235.0;3290.0;14;13/05/2030
+151;1929-W;Offre groupée conférence 1-8;235.0;3760.0;16;23/04/2031
+152;1929-W;Offre groupée conférence 1-8;235.0;3760.0;16;10/11/2032
+153;1929-W;Offre groupée conférence 1-8;235.0;3760.0;16;19/05/2031
+154;1929-W;Offre groupée conférence 1-8;235.0;3290.0;14;27/11/2030
+155;1929-W;Offre groupée conférence 1-8;235.0;3055.0;13;26/02/2027
+156;1929-W;Offre groupée conférence 1-8;235.0;1645.0;7;05/09/2031
+157;1929-W;Offre groupée conférence 1-8;235.0;2115.0;9;02/12/2035
+158;1929-W;Offre groupée conférence 1-8;235.0;1880.0;8;28/08/2027
+159;1929-W;Offre groupée conférence 1-8;235.0;3055.0;13;30/10/2032
+160;1936-S;Chaise dactylo BERLIN, jaune;193.7;2906.0;15;21/02/2028
+161;1936-S;Chaise dactylo BERLIN, jaune;193.7;1550.0;8;19/04/2027
+162;1936-S;Chaise dactylo BERLIN, jaune;193.7;2131.0;11;23/12/2035
+163;1936-S;Chaise dactylo BERLIN, jaune;193.7;194.0;1;24/07/2029
+164;1936-S;Chaise dactylo BERLIN, jaune;193.7;3293.0;17;17/11/2027
+165;1936-S;Chaise dactylo BERLIN, jaune;193.7;968.0;5;11/07/2029
+166;1936-S;Chaise dactylo BERLIN, jaune;193.7;581.0;3;05/06/2034
+167;1936-S;Chaise dactylo BERLIN, jaune;193.7;2906.0;15;19/08/2033
+168;1936-S;Chaise dactylo BERLIN, jaune;193.7;194.0;1;02/02/2030
+169;1936-S;Chaise dactylo BERLIN, jaune;193.7;968.0;5;18/05/2031
+170;1936-S;Chaise dactylo BERLIN, jaune;193.7;1356.0;7;01/10/2027
+171;1936-S;Chaise dactylo BERLIN, jaune;193.7;2906.0;15;31/05/2031
+172;1936-S;Chaise dactylo BERLIN, jaune;193.7;1743.0;9;19/10/2035
+173;1936-S;Chaise dactylo BERLIN, jaune;193.7;2131.0;11;06/03/2032
+174;1936-S;Chaise dactylo BERLIN, jaune;193.7;1743.0;9;24/10/2031
+175;1936-S;Chaise dactylo BERLIN, jaune;193.7;1937.0;10;18/12/2026
+176;1936-S;Chaise dactylo BERLIN, jaune;193.7;2906.0;15;15/06/2031
+177;1936-S;Chaise dactylo BERLIN, jaune;193.7;194.0;1;07/03/2033
+178;1936-S;Chaise dactylo BERLIN, jaune;193.7;2131.0;11;26/02/2032
+179;1936-S;Chaise dactylo BERLIN, jaune;193.7;194.0;1;02/03/2028
+180;1953-W;Section invité 1;126.4;1896.0;15;25/03/2027
+181;1953-W;Section invité 1;126.4;2149.0;17;31/05/2028
+182;1953-W;Section invité 1;126.4;1390.0;11;22/10/2031
+183;1953-W;Section invité 1;126.4;2149.0;17;07/11/2027
+184;1953-W;Section invité 1;126.4;1643.0;13;17/03/2030
+185;1953-W;Section invité 1;126.4;885.0;7;19/05/2034
+186;1953-W;Section invité 1;126.4;2149.0;17;30/04/2034
+187;1953-W;Section invité 1;126.4;379.0;3;19/12/2033
+188;1953-W;Section invité 1;126.4;1264.0;10;31/01/2036
+189;1953-W;Section invité 1;126.4;1390.0;11;03/08/2034
+190;1953-W;Section invité 1;126.4;1264.0;10;28/03/2029
+191;1953-W;Section invité 1;126.4;632.0;5;14/02/2034
+192;1953-W;Section invité 1;126.4;758.0;6;15/02/2029
+193;1953-W;Section invité 1;126.4;126.0;1;21/12/2034
+194;1953-W;Section invité 1;126.4;2149.0;17;23/10/2029
+195;1953-W;Section invité 1;126.4;2275.0;18;17/10/2034
+196;1953-W;Section invité 1;126.4;632.0;5;10/02/2032
+197;1953-W;Section invité 1;126.4;126.0;1;27/11/2031
+198;1953-W;Section invité 1;126.4;2149.0;17;20/05/2028
+199;1953-W;Section invité 1;126.4;1517.0;12;25/01/2030
+200;1960-S;Chaise dactylo ROME, verte;193.7;581.0;3;08/11/2035
+201;1960-S;Chaise dactylo ROME, verte;193.7;3099.0;16;28/10/2032
+202;1960-S;Chaise dactylo ROME, verte;193.7;2324.0;12;16/09/2027
+203;1960-S;Chaise dactylo ROME, verte;193.7;2906.0;15;18/04/2032
+204;1960-S;Chaise dactylo ROME, verte;193.7;1550.0;8;21/03/2027
+205;1960-S;Chaise dactylo ROME, verte;193.7;3487.0;18;07/08/2035
+206;1960-S;Chaise dactylo ROME, verte;193.7;1937.0;10;09/05/2034
+207;1960-S;Chaise dactylo ROME, verte;193.7;2906.0;15;04/05/2028
+208;1960-S;Chaise dactylo ROME, verte;193.7;3293.0;17;05/06/2028
+209;1960-S;Chaise dactylo ROME, verte;193.7;1937.0;10;04/07/2031
+210;1960-S;Chaise dactylo ROME, verte;193.7;2518.0;13;09/01/2028
+211;1960-S;Chaise dactylo ROME, verte;193.7;3099.0;16;19/03/2028
+212;1960-S;Chaise dactylo ROME, verte;193.7;1743.0;9;02/10/2026
+213;1960-S;Chaise dactylo ROME, verte;193.7;968.0;5;19/02/2032
+214;1960-S;Chaise dactylo ROME, verte;193.7;581.0;3;30/04/2032
+215;1960-S;Chaise dactylo ROME, verte;193.7;194.0;1;09/12/2031
+216;1960-S;Chaise dactylo ROME, verte;193.7;581.0;3;17/07/2031
+217;1960-S;Chaise dactylo ROME, verte;193.7;1743.0;9;10/10/2028
+218;1960-S;Chaise dactylo ROME, verte;193.7;968.0;5;23/02/2036
+219;1960-S;Chaise dactylo ROME, verte;193.7;1743.0;9;23/03/2031
+220;1964-S;Chaise dactylo TOKYO, bleue;193.7;2518.0;13;28/10/2028
+221;1964-S;Chaise dactylo TOKYO, bleue;193.7;581.0;3;14/07/2033
+222;1964-S;Chaise dactylo TOKYO, bleue;193.7;1937.0;10;21/03/2034
+223;1964-S;Chaise dactylo TOKYO, bleue;193.7;1356.0;7;12/04/2028
+224;1964-S;Chaise dactylo TOKYO, bleue;193.7;1743.0;9;05/09/2031
+225;1964-S;Chaise dactylo TOKYO, bleue;193.7;2324.0;12;06/01/2034
+226;1964-S;Chaise dactylo TOKYO, bleue;193.7;968.0;5;26/10/2031
+227;1964-S;Chaise dactylo TOKYO, bleue;193.7;1937.0;10;04/08/2031
+228;1964-S;Chaise dactylo TOKYO, bleue;193.7;3680.0;19;01/12/2031
+229;1964-S;Chaise dactylo TOKYO, bleue;193.7;1550.0;8;29/01/2028
+230;1964-S;Chaise dactylo TOKYO, bleue;193.7;1356.0;7;04/09/2031
+231;1964-S;Chaise dactylo TOKYO, bleue;193.7;2324.0;12;24/08/2031
+232;1964-S;Chaise dactylo TOKYO, bleue;193.7;2324.0;12;07/04/2034
+233;1964-S;Chaise dactylo TOKYO, bleue;193.7;2906.0;15;23/01/2030
+234;1964-S;Chaise dactylo TOKYO, bleue;193.7;194.0;1;22/07/2035
+235;1964-S;Chaise dactylo TOKYO, bleue;193.7;1356.0;7;19/11/2028
+236;1964-S;Chaise dactylo TOKYO, bleue;193.7;1550.0;8;08/05/2035
+237;1964-S;Chaise dactylo TOKYO, bleue;193.7;194.0;1;03/04/2026
+238;1964-S;Chaise dactylo TOKYO, bleue;193.7;2324.0;12;18/04/2032
+239;1964-S;Chaise dactylo TOKYO, bleue;193.7;1743.0;9;24/07/2028
+240;1965-W;Offre groupée conférence 2-8;235.0;470.0;2;09/12/2035
+241;1965-W;Offre groupée conférence 2-8;235.0;1410.0;6;07/01/2036
+242;1965-W;Offre groupée conférence 2-8;235.0;940.0;4;12/02/2032
+243;1965-W;Offre groupée conférence 2-8;235.0;4230.0;18;17/05/2027
+244;1965-W;Offre groupée conférence 2-8;235.0;3525.0;15;21/03/2034
+245;1965-W;Offre groupée conférence 2-8;235.0;3290.0;14;27/12/2032
+246;1965-W;Offre groupée conférence 2-8;235.0;4465.0;19;19/12/2035
+247;1965-W;Offre groupée conférence 2-8;235.0;2350.0;10;09/08/2026
+248;1965-W;Offre groupée conférence 2-8;235.0;2585.0;11;21/05/2033
+249;1965-W;Offre groupée conférence 2-8;235.0;2820.0;12;27/01/2034
+250;1965-W;Offre groupée conférence 2-8;235.0;1645.0;7;18/05/2031
+251;1965-W;Offre groupée conférence 2-8;235.0;2820.0;12;08/10/2029
+252;1965-W;Offre groupée conférence 2-8;235.0;2115.0;9;05/01/2032
+253;1965-W;Offre groupée conférence 2-8;235.0;2115.0;9;17/02/2034
+254;1965-W;Offre groupée conférence 2-8;235.0;3290.0;14;17/03/2031
+255;1965-W;Offre groupée conférence 2-8;235.0;2350.0;10;21/07/2033
+256;1965-W;Offre groupée conférence 2-8;235.0;2585.0;11;13/12/2028
+257;1965-W;Offre groupée conférence 2-8;235.0;3995.0;17;08/02/2033
+258;1965-W;Offre groupée conférence 2-8;235.0;1175.0;5;17/05/2029
+259;1965-W;Offre groupée conférence 2-8;235.0;2820.0;12;29/03/2029
+260;1968-S;Chaise pivotante MEXIQUE, noire;191.0;3247.0;17;03/07/2030
+261;1968-S;Chaise pivotante MEXIQUE, noire;191.0;2101.0;11;08/05/2031
+262;1968-S;Chaise pivotante MEXIQUE, noire;191.0;2865.0;15;10/01/2027
+263;1968-S;Chaise pivotante MEXIQUE, noire;191.0;573.0;3;13/07/2035
+264;1968-S;Chaise pivotante MEXIQUE, noire;191.0;2101.0;11;23/07/2035
+265;1968-S;Chaise pivotante MEXIQUE, noire;191.0;2483.0;13;01/01/2030
+266;1968-S;Chaise pivotante MEXIQUE, noire;191.0;2483.0;13;01/03/2035
+267;1968-S;Chaise pivotante MEXIQUE, noire;191.0;1337.0;7;15/08/2035
+268;1968-S;Chaise pivotante MEXIQUE, noire;191.0;2101.0;11;12/05/2035
+269;1968-S;Chaise pivotante MEXIQUE, noire;191.0;1910.0;10;04/09/2026
+270;1968-S;Chaise pivotante MEXIQUE, noire;191.0;1528.0;8;11/06/2029
+271;1968-S;Chaise pivotante MEXIQUE, noire;191.0;1337.0;7;12/01/2031
+272;1968-S;Chaise pivotante MEXIQUE, noire;191.0;1528.0;8;09/10/2032
+273;1968-S;Chaise pivotante MEXIQUE, noire;191.0;1337.0;7;22/05/2034
+274;1968-S;Chaise pivotante MEXIQUE, noire;191.0;2101.0;11;24/01/2028
+275;1968-S;Chaise pivotante MEXIQUE, noire;191.0;2101.0;11;13/03/2033
+276;1968-S;Chaise pivotante MEXIQUE, noire;191.0;3056.0;16;28/07/2035
+277;1968-S;Chaise pivotante MEXIQUE, noire;191.0;382.0;2;24/10/2035
+278;1968-S;Chaise pivotante MEXIQUE, noire;191.0;3056.0;16;20/01/2028
+279;1968-S;Chaise pivotante MEXIQUE, noire;191.0;573.0;3;07/11/2032
+280;1969-W;Package conférence 1;343.5;687.0;2;17/01/2027
+281;1969-W;Package conférence 1;343.5;4122.0;12;11/03/2031
+282;1969-W;Package conférence 1;343.5;5152.0;15;26/02/2035
+283;1969-W;Package conférence 1;343.5;6526.0;19;04/05/2027
+284;1969-W;Package conférence 1;343.5;2404.0;7;24/12/2031
+285;1969-W;Package conférence 1;343.5;5152.0;15;30/01/2033
+286;1969-W;Package conférence 1;343.5;344.0;1;20/12/2032
+287;1969-W;Package conférence 1;343.5;1374.0;4;23/03/2031
+288;1969-W;Package conférence 1;343.5;3435.0;10;12/03/2032
+289;1969-W;Package conférence 1;343.5;3435.0;10;02/10/2026
+290;1969-W;Package conférence 1;343.5;6183.0;18;29/03/2032
+291;1969-W;Package conférence 1;343.5;5496.0;16;07/02/2035
+292;1969-W;Package conférence 1;343.5;2061.0;6;05/04/2032
+293;1969-W;Package conférence 1;343.5;3778.0;11;09/06/2035
+294;1969-W;Package conférence 1;343.5;344.0;1;23/09/2029
+295;1969-W;Package conférence 1;343.5;5152.0;15;06/07/2034
+296;1969-W;Package conférence 1;343.5;2748.0;8;02/04/2032
+297;1969-W;Package conférence 1;343.5;3092.0;9;22/06/2029
+298;1969-W;Package conférence 1;343.5;344.0;1;04/04/2035
+299;1969-W;Package conférence 1;343.5;4809.0;14;02/04/2029
+300;1972-S;Chaise pivotante MUNICH, jaune;191.0;1719.0;9;22/08/2031
+301;1972-S;Chaise pivotante MUNICH, jaune;191.0;2483.0;13;03/04/2028
+302;1972-S;Chaise pivotante MUNICH, jaune;191.0;955.0;5;15/12/2030
+303;1972-S;Chaise pivotante MUNICH, jaune;191.0;191.0;1;01/09/2032
+304;1972-S;Chaise pivotante MUNICH, jaune;191.0;573.0;3;20/03/2027
+305;1972-S;Chaise pivotante MUNICH, jaune;191.0;3056.0;16;09/07/2028
+306;1972-S;Chaise pivotante MUNICH, jaune;191.0;955.0;5;18/07/2035
+307;1972-S;Chaise pivotante MUNICH, jaune;191.0;191.0;1;19/09/2032
+308;1972-S;Chaise pivotante MUNICH, jaune;191.0;955.0;5;17/07/2034
+309;1972-S;Chaise pivotante MUNICH, jaune;191.0;3247.0;17;01/03/2034
+310;1972-S;Chaise pivotante MUNICH, jaune;191.0;1719.0;9;17/10/2032
+311;1972-S;Chaise pivotante MUNICH, jaune;191.0;2865.0;15;10/02/2032
+312;1972-S;Chaise pivotante MUNICH, jaune;191.0;3438.0;18;18/01/2030
+313;1972-S;Chaise pivotante MUNICH, jaune;191.0;1337.0;7;03/05/2027
+314;1972-S;Chaise pivotante MUNICH, jaune;191.0;1146.0;6;25/05/2026
+315;1972-S;Chaise pivotante MUNICH, jaune;191.0;1337.0;7;27/04/2031
+316;1972-S;Chaise pivotante MUNICH, jaune;191.0;1910.0;10;03/12/2033
+317;1972-S;Chaise pivotante MUNICH, jaune;191.0;573.0;3;10/10/2034
+318;1972-S;Chaise pivotante MUNICH, jaune;191.0;191.0;1;08/12/2034
+319;1972-S;Chaise pivotante MUNICH, jaune;191.0;764.0;4;23/10/2031
+320;1980-S;Chaise pivotante MOSCOU, rouge;191.0;3247.0;17;30/07/2032
+321;1980-S;Chaise pivotante MOSCOU, rouge;191.0;3438.0;18;25/02/2030
+322;1980-S;Chaise pivotante MOSCOU, rouge;191.0;2292.0;12;10/04/2031
+323;1980-S;Chaise pivotante MOSCOU, rouge;191.0;2292.0;12;02/01/2029
+324;1980-S;Chaise pivotante MOSCOU, rouge;191.0;3629.0;19;01/12/2035
+325;1980-S;Chaise pivotante MOSCOU, rouge;191.0;764.0;4;11/04/2029
+326;1980-S;Chaise pivotante MOSCOU, rouge;191.0;764.0;4;10/12/2031
+327;1980-S;Chaise pivotante MOSCOU, rouge;191.0;1910.0;10;14/05/2033
+328;1980-S;Chaise pivotante MOSCOU, rouge;191.0;382.0;2;13/07/2035
+329;1980-S;Chaise pivotante MOSCOU, rouge;191.0;3056.0;16;07/08/2033
+330;1980-S;Chaise pivotante MOSCOU, rouge;191.0;2101.0;11;08/05/2032
+331;1980-S;Chaise pivotante MOSCOU, rouge;191.0;2674.0;14;14/01/2033
+332;1980-S;Chaise pivotante MOSCOU, rouge;191.0;2865.0;15;27/07/2031
+333;1980-S;Chaise pivotante MOSCOU, rouge;191.0;3629.0;19;15/09/2029
+334;1980-S;Chaise pivotante MOSCOU, rouge;191.0;2865.0;15;15/03/2031
+335;1980-S;Chaise pivotante MOSCOU, rouge;191.0;1337.0;7;12/06/2034
+336;1980-S;Chaise pivotante MOSCOU, rouge;191.0;2101.0;11;03/03/2029
+337;1980-S;Chaise pivotante MOSCOU, rouge;191.0;2292.0;12;10/08/2033
+338;1980-S;Chaise pivotante MOSCOU, rouge;191.0;191.0;1;28/10/2034
+339;1980-S;Chaise pivotante MOSCOU, rouge;191.0;2292.0;12;02/06/2029
+340;1988-S;Chaise dactylo SÉOUL, rouge;193.7;2324.0;12;01/03/2029
+341;1988-S;Chaise dactylo SÉOUL, rouge;193.7;1356.0;7;03/12/2028
+342;1988-S;Chaise dactylo SÉOUL, rouge;193.7;2712.0;14;27/09/2035
+343;1988-S;Chaise dactylo SÉOUL, rouge;193.7;2518.0;13;29/05/2027
+344;1988-S;Chaise dactylo SÉOUL, rouge;193.7;968.0;5;21/03/2028
+345;1988-S;Chaise dactylo SÉOUL, rouge;193.7;581.0;3;19/01/2029
+346;1988-S;Chaise dactylo SÉOUL, rouge;193.7;3293.0;17;05/07/2030
+347;1988-S;Chaise dactylo SÉOUL, rouge;193.7;1162.0;6;25/05/2033
+348;1988-S;Chaise dactylo SÉOUL, rouge;193.7;2518.0;13;06/10/2032
+349;1988-S;Chaise dactylo SÉOUL, rouge;193.7;1356.0;7;13/04/2031
+350;1988-S;Chaise dactylo SÉOUL, rouge;193.7;2712.0;14;23/05/2026
+351;1988-S;Chaise dactylo SÉOUL, rouge;193.7;1356.0;7;03/05/2030
+352;1988-S;Chaise dactylo SÉOUL, rouge;193.7;2131.0;11;01/09/2035
+353;1988-S;Chaise dactylo SÉOUL, rouge;193.7;2324.0;12;21/09/2034
+354;1988-S;Chaise dactylo SÉOUL, rouge;193.7;3099.0;16;28/02/2030
+355;1988-S;Chaise dactylo SÉOUL, rouge;193.7;2712.0;14;08/05/2029
+356;1988-S;Chaise dactylo SÉOUL, rouge;193.7;775.0;4;27/07/2033
+357;1988-S;Chaise dactylo SÉOUL, rouge;193.7;1743.0;9;20/11/2032
+358;1988-S;Chaise dactylo SÉOUL, rouge;193.7;387.0;2;16/02/2031
+359;1988-S;Chaise dactylo SÉOUL, rouge;193.7;3680.0;19;10/04/2032
+360;1996-S;Tableau ATLANTA, socle;1404.3;4213.0;3;25/02/2035
+361;1996-S;Tableau ATLANTA, socle;1404.3;4213.0;3;20/02/2036
+362;1996-S;Tableau ATLANTA, socle;1404.3;19660.0;14;21/11/2034
+363;1996-S;Tableau ATLANTA, socle;1404.3;4213.0;3;05/04/2033
+364;1996-S;Tableau ATLANTA, socle;1404.3;12639.0;9;27/04/2027
+365;1996-S;Tableau ATLANTA, socle;1404.3;4213.0;3;29/10/2031
+366;1996-S;Tableau ATLANTA, socle;1404.3;11234.0;8;08/07/2027
+367;1996-S;Tableau ATLANTA, socle;1404.3;8426.0;6;08/08/2035
+368;1996-S;Tableau ATLANTA, socle;1404.3;26682.0;19;11/04/2026
+369;1996-S;Tableau ATLANTA, socle;1404.3;14043.0;10;24/01/2036
+370;1996-S;Tableau ATLANTA, socle;1404.3;23873.0;17;07/01/2029
+371;1996-S;Tableau ATLANTA, socle;1404.3;12639.0;9;13/09/2032
+372;1996-S;Tableau ATLANTA, socle;1404.3;21064.0;15;29/01/2035
+373;1996-S;Tableau ATLANTA, socle;1404.3;11234.0;8;06/01/2036
+374;1996-S;Tableau ATLANTA, socle;1404.3;2809.0;2;26/11/2027
+375;1996-S;Tableau ATLANTA, socle;1404.3;2809.0;2;06/10/2031
+376;1996-S;Tableau ATLANTA, socle;1404.3;7022.0;5;20/10/2029
+377;1996-S;Tableau ATLANTA, socle;1404.3;23873.0;17;03/01/2033
+378;1996-S;Tableau ATLANTA, socle;1404.3;7022.0;5;11/12/2032
+379;1996-S;Tableau ATLANTA, socle;1404.3;2809.0;2;24/12/2032
+380;2000-S;Chaise pivotante SYDNEY, verte;191.0;3247.0;17;23/05/2035
+381;2000-S;Chaise pivotante SYDNEY, verte;191.0;1337.0;7;25/11/2027
+382;2000-S;Chaise pivotante SYDNEY, verte;191.0;2865.0;15;05/12/2030
+383;2000-S;Chaise pivotante SYDNEY, verte;191.0;3629.0;19;13/06/2026
+384;2000-S;Chaise pivotante SYDNEY, verte;191.0;955.0;5;13/11/2033
+385;2000-S;Chaise pivotante SYDNEY, verte;191.0;3056.0;16;10/02/2035
+386;2000-S;Chaise pivotante SYDNEY, verte;191.0;1910.0;10;07/05/2027
+387;2000-S;Chaise pivotante SYDNEY, verte;191.0;382.0;2;06/04/2026
+388;2000-S;Chaise pivotante SYDNEY, verte;191.0;382.0;2;28/10/2032
+389;2000-S;Chaise pivotante SYDNEY, verte;191.0;3438.0;18;28/08/2030
+390;2000-S;Chaise pivotante SYDNEY, verte;191.0;1146.0;6;16/11/2029
+391;2000-S;Chaise pivotante SYDNEY, verte;191.0;1337.0;7;02/07/2035
+392;2000-S;Chaise pivotante SYDNEY, verte;191.0;573.0;3;13/04/2035
+393;2000-S;Chaise pivotante SYDNEY, verte;191.0;2865.0;15;25/02/2030
+394;2000-S;Chaise pivotante SYDNEY, verte;191.0;1337.0;7;10/06/2026
+395;2000-S;Chaise pivotante SYDNEY, verte;191.0;3438.0;18;30/12/2029
+396;2000-S;Chaise pivotante SYDNEY, verte;191.0;3247.0;17;11/11/2027
+397;2000-S;Chaise pivotante SYDNEY, verte;191.0;2292.0;12;01/10/2029
+398;2000-S;Chaise pivotante SYDNEY, verte;191.0;764.0;4;14/08/2027
+399;2000-S;Chaise pivotante SYDNEY, verte;191.0;764.0;4;12/09/2031
+400;CC-1000;Crédit carbone 3 MTCO2e;240.0;1200.0;5;06/09/2032
+401;CC-1000;Crédit carbone 3 MTCO2e;240.0;240.0;1;10/09/2027
+402;CC-1000;Crédit carbone 3 MTCO2e;240.0;1200.0;5;01/09/2035
+403;CC-1000;Crédit carbone 3 MTCO2e;240.0;1680.0;7;03/09/2034
+404;CC-1000;Crédit carbone 3 MTCO2e;240.0;2880.0;12;03/05/2034
+405;CC-1000;Crédit carbone 3 MTCO2e;240.0;3600.0;15;16/08/2026
+406;CC-1000;Crédit carbone 3 MTCO2e;240.0;2880.0;12;02/03/2035
+407;CC-1000;Crédit carbone 3 MTCO2e;240.0;3360.0;14;22/08/2026
+408;CC-1000;Crédit carbone 3 MTCO2e;240.0;2640.0;11;21/02/2033
+409;CC-1000;Crédit carbone 3 MTCO2e;240.0;4560.0;19;02/11/2033
+410;CC-1000;Crédit carbone 3 MTCO2e;240.0;960.0;4;24/03/2033
+411;CC-1000;Crédit carbone 3 MTCO2e;240.0;960.0;4;18/01/2032
+412;CC-1000;Crédit carbone 3 MTCO2e;240.0;1680.0;7;04/05/2031
+413;CC-1000;Crédit carbone 3 MTCO2e;240.0;3600.0;15;21/05/2026
+414;CC-1000;Crédit carbone 3 MTCO2e;240.0;480.0;2;09/11/2027
+415;CC-1000;Crédit carbone 3 MTCO2e;240.0;3600.0;15;07/02/2027
+416;CC-1000;Crédit carbone 3 MTCO2e;240.0;3360.0;14;09/09/2031
+417;CC-1000;Crédit carbone 3 MTCO2e;240.0;1200.0;5;27/04/2034
+418;CC-1000;Crédit carbone 3 MTCO2e;240.0;1440.0;6;24/06/2030
+419;CC-1000;Crédit carbone 3 MTCO2e;240.0;3120.0;13;05/04/2029
+420;F-100;Pompe à distance;100.0;1000.0;10;11/07/2035
+421;F-100;Pompe à distance;100.0;900.0;9;23/07/2034
+422;F-100;Pompe à distance;100.0;1000.0;10;25/02/2027
+423;F-100;Pompe à distance;100.0;700.0;7;12/06/2028
+424;F-100;Pompe à distance;100.0;1000.0;10;18/12/2026
+425;F-100;Pompe à distance;100.0;1700.0;17;16/02/2035
+426;F-100;Pompe à distance;100.0;500.0;5;24/09/2029
+427;F-100;Pompe à distance;100.0;1500.0;15;01/01/2036
+428;F-100;Pompe à distance;100.0;1900.0;19;18/05/2031
+429;F-100;Pompe à distance;100.0;600.0;6;20/09/2035
+430;F-100;Pompe à distance;100.0;1800.0;18;31/08/2035
+431;F-100;Pompe à distance;100.0;1500.0;15;13/05/2033
+432;F-100;Pompe à distance;100.0;1000.0;10;28/04/2026
+433;F-100;Pompe à distance;100.0;200.0;2;10/01/2036
+434;F-100;Pompe à distance;100.0;1700.0;17;07/01/2030
+435;F-100;Pompe à distance;100.0;1300.0;13;22/09/2032
+436;F-100;Pompe à distance;100.0;1600.0;16;15/01/2031
+437;F-100;Pompe à distance;100.0;600.0;6;08/07/2029
+438;F-100;Pompe à distance;100.0;1400.0;14;13/12/2028
+439;F-100;Pompe à distance;100.0;1400.0;14;28/11/2032
+440;F-101;Tasses à café en papier;2400.0;26400.0;11;06/04/2027
+441;F-101;Tasses à café en papier;2400.0;12000.0;5;16/10/2032
+442;F-101;Tasses à café en papier;2400.0;21600.0;9;24/08/2027
+443;F-101;Tasses à café en papier;2400.0;14400.0;6;03/02/2032
+444;F-101;Tasses à café en papier;2400.0;38400.0;16;26/10/2026
+445;F-101;Tasses à café en papier;2400.0;4800.0;2;01/08/2032
+446;F-101;Tasses à café en papier;2400.0;24000.0;10;11/08/2035
+447;F-101;Tasses à café en papier;2400.0;45600.0;19;19/01/2031
+448;F-101;Tasses à café en papier;2400.0;38400.0;16;09/05/2026
+449;F-101;Tasses à café en papier;2400.0;21600.0;9;10/03/2032
+450;F-101;Tasses à café en papier;2400.0;4800.0;2;02/09/2026
+451;F-101;Tasses à café en papier;2400.0;9600.0;4;24/06/2033
+452;F-101;Tasses à café en papier;2400.0;24000.0;10;05/09/2033
+453;F-101;Tasses à café en papier;2400.0;28800.0;12;21/05/2030
+454;F-101;Tasses à café en papier;2400.0;33600.0;14;10/07/2034
+455;F-101;Tasses à café en papier;2400.0;31200.0;13;02/09/2032
+456;F-101;Tasses à café en papier;2400.0;36000.0;15;16/05/2030
+457;F-101;Tasses à café en papier;2400.0;21600.0;9;10/08/2028
+458;F-101;Tasses à café en papier;2400.0;24000.0;10;16/09/2026
+459;F-101;Tasses à café en papier;2400.0;19200.0;8;25/09/2034
+460;GRH-1000;Precision Grind Home;199.0;1990.0;10;17/08/2031
+461;GRH-1000;Precision Grind Home;199.0;2388.0;12;20/03/2031
+462;GRH-1000;Precision Grind Home;199.0;3383.0;17;23/01/2027
+463;GRH-1000;Precision Grind Home;199.0;199.0;1;24/10/2033
+464;GRH-1000;Precision Grind Home;199.0;1791.0;9;11/07/2026
+465;GRH-1000;Precision Grind Home;199.0;3184.0;16;03/02/2028
+466;GRH-1000;Precision Grind Home;199.0;3184.0;16;21/09/2032
+467;GRH-1000;Precision Grind Home;199.0;3781.0;19;12/02/2030
+468;GRH-1000;Precision Grind Home;199.0;2985.0;15;05/11/2034
+469;GRH-1000;Precision Grind Home;199.0;2587.0;13;02/05/2029
+470;GRH-1000;Precision Grind Home;199.0;1791.0;9;17/07/2030
+471;GRH-1000;Precision Grind Home;199.0;2388.0;12;07/03/2029
+472;GRH-1000;Precision Grind Home;199.0;2587.0;13;10/12/2034
+473;GRH-1000;Precision Grind Home;199.0;1393.0;7;24/12/2026
+474;GRH-1000;Precision Grind Home;199.0;1791.0;9;04/10/2030
+475;GRH-1000;Precision Grind Home;199.0;1194.0;6;15/01/2027
+476;GRH-1000;Precision Grind Home;199.0;3781.0;19;27/07/2027
+477;GRH-1000;Precision Grind Home;199.0;2587.0;13;10/08/2028
+478;GRH-1000;Precision Grind Home;199.0;1194.0;6;02/03/2036
+479;GRH-1000;Precision Grind Home;199.0;3781.0;19;08/11/2030
+480;GRH-1001;Smart Grind Home;299.0;2093.0;7;17/11/2033
+481;GRH-1001;Smart Grind Home;299.0;5083.0;17;25/10/2034
+482;GRH-1001;Smart Grind Home;299.0;1794.0;6;02/10/2031
+483;GRH-1001;Smart Grind Home;299.0;598.0;2;12/11/2027
+484;GRH-1001;Smart Grind Home;299.0;4784.0;16;07/11/2030
+485;GRH-1001;Smart Grind Home;299.0;4784.0;16;18/08/2032
+486;GRH-1001;Smart Grind Home;299.0;5382.0;18;16/07/2034
+487;GRH-1001;Smart Grind Home;299.0;2691.0;9;16/01/2032
+488;GRH-1001;Smart Grind Home;299.0;4784.0;16;11/10/2030
+489;GRH-1001;Smart Grind Home;299.0;897.0;3;24/04/2034
+490;GRH-1001;Smart Grind Home;299.0;2691.0;9;27/08/2033
+491;GRH-1001;Smart Grind Home;299.0;4784.0;16;21/12/2026
+492;GRH-1001;Smart Grind Home;299.0;2691.0;9;09/04/2031
+493;GRH-1001;Smart Grind Home;299.0;5083.0;17;25/10/2028
+494;GRH-1001;Smart Grind Home;299.0;4485.0;15;04/11/2034
+495;GRH-1001;Smart Grind Home;299.0;3588.0;12;13/01/2030
+496;GRH-1001;Smart Grind Home;299.0;3887.0;13;04/12/2035
+497;GRH-1001;Smart Grind Home;299.0;598.0;2;28/04/2027
+498;GRH-1001;Smart Grind Home;299.0;2691.0;9;26/04/2031
+499;GRH-1001;Smart Grind Home;299.0;2392.0;8;08/11/2028
+500;GTE-1000;Grains torréfiés entiers, Colombie;15.0;120.0;8;05/09/2029
+501;GTE-1000;Grains torréfiés entiers, Colombie;15.0;225.0;15;29/12/2033
+502;GTE-1000;Grains torréfiés entiers, Colombie;15.0;90.0;6;26/05/2033
+503;GTE-1000;Grains torréfiés entiers, Colombie;15.0;105.0;7;07/04/2035
+504;GTE-1000;Grains torréfiés entiers, Colombie;15.0;240.0;16;12/01/2028
+505;GTE-1000;Grains torréfiés entiers, Colombie;15.0;45.0;3;19/01/2028
+506;GTE-1000;Grains torréfiés entiers, Colombie;15.0;255.0;17;22/05/2031
+507;GTE-1000;Grains torréfiés entiers, Colombie;15.0;240.0;16;05/02/2028
+508;GTE-1000;Grains torréfiés entiers, Colombie;15.0;90.0;6;14/02/2033
+509;GTE-1000;Grains torréfiés entiers, Colombie;15.0;90.0;6;11/09/2033
+510;GTE-1000;Grains torréfiés entiers, Colombie;15.0;30.0;2;20/04/2026
+511;GTE-1000;Grains torréfiés entiers, Colombie;15.0;240.0;16;27/11/2032
+512;GTE-1000;Grains torréfiés entiers, Colombie;15.0;90.0;6;02/02/2036
+513;GTE-1000;Grains torréfiés entiers, Colombie;15.0;105.0;7;27/07/2030
+514;GTE-1000;Grains torréfiés entiers, Colombie;15.0;285.0;19;27/07/2029
+515;GTE-1000;Grains torréfiés entiers, Colombie;15.0;15.0;1;24/03/2031
+516;GTE-1000;Grains torréfiés entiers, Colombie;15.0;105.0;7;12/04/2029
+517;GTE-1000;Grains torréfiés entiers, Colombie;15.0;90.0;6;27/02/2033
+518;GTE-1000;Grains torréfiés entiers, Colombie;15.0;120.0;8;11/06/2027
+519;GTE-1000;Grains torréfiés entiers, Colombie;15.0;255.0;17;24/05/2032
+520;GTE-1001;Grains torréfiés entiers, Brésil;15.0;210.0;14;08/05/2035
+521;GTE-1001;Grains torréfiés entiers, Brésil;15.0;105.0;7;13/08/2035
+522;GTE-1001;Grains torréfiés entiers, Brésil;15.0;135.0;9;22/02/2032
+523;GTE-1001;Grains torréfiés entiers, Brésil;15.0;150.0;10;06/12/2030
+524;GTE-1001;Grains torréfiés entiers, Brésil;15.0;135.0;9;29/06/2026
+525;GTE-1001;Grains torréfiés entiers, Brésil;15.0;195.0;13;23/04/2026
+526;GTE-1001;Grains torréfiés entiers, Brésil;15.0;195.0;13;05/02/2030
+527;GTE-1001;Grains torréfiés entiers, Brésil;15.0;15.0;1;26/04/2031
+528;GTE-1001;Grains torréfiés entiers, Brésil;15.0;135.0;9;17/11/2035
+529;GTE-1001;Grains torréfiés entiers, Brésil;15.0;60.0;4;01/06/2035
+530;GTE-1001;Grains torréfiés entiers, Brésil;15.0;285.0;19;27/07/2030
+531;GTE-1001;Grains torréfiés entiers, Brésil;15.0;225.0;15;25/08/2034
+532;GTE-1001;Grains torréfiés entiers, Brésil;15.0;60.0;4;28/12/2029
+533;GTE-1001;Grains torréfiés entiers, Brésil;15.0;180.0;12;19/01/2034
+534;GTE-1001;Grains torréfiés entiers, Brésil;15.0;210.0;14;01/02/2033
+535;GTE-1001;Grains torréfiés entiers, Brésil;15.0;180.0;12;21/12/2029
+536;GTE-1001;Grains torréfiés entiers, Brésil;15.0;75.0;5;21/05/2034
+537;GTE-1001;Grains torréfiés entiers, Brésil;15.0;180.0;12;20/07/2032
+538;GTE-1001;Grains torréfiés entiers, Brésil;15.0;135.0;9;26/05/2034
+539;GTE-1001;Grains torréfiés entiers, Brésil;15.0;270.0;18;02/01/2028
+540;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;90.0;6;10/07/2030
+541;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;180.0;12;22/08/2028
+542;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;255.0;17;15/10/2030
+543;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;30.0;2;09/04/2026
+544;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;270.0;18;29/09/2029
+545;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;240.0;16;03/05/2026
+546;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;240.0;16;30/11/2028
+547;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;60.0;4;08/02/2030
+548;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;150.0;10;29/04/2031
+549;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;165.0;11;27/10/2034
+550;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;135.0;9;14/11/2034
+551;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;210.0;14;17/09/2034
+552;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;285.0;19;05/12/2026
+553;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;165.0;11;23/02/2029
+554;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;30.0;2;09/05/2035
+555;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;195.0;13;18/09/2033
+556;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;285.0;19;31/10/2028
+557;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;15.0;1;26/11/2032
+558;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;90.0;6;14/10/2034
+559;GTE-1002;Grains torréfiés entiers, Indonésie;15.0;30.0;2;22/01/2033
+560;S-100;S-100 Semi-Automatic;2400.0;40800.0;17;07/12/2029
+561;S-100;S-100 Semi-Automatic;2400.0;38400.0;16;20/01/2035
+562;S-100;S-100 Semi-Automatic;2400.0;12000.0;5;22/08/2032
+563;S-100;S-100 Semi-Automatic;2400.0;31200.0;13;25/07/2031
+564;S-100;S-100 Semi-Automatic;2400.0;28800.0;12;30/09/2029
+565;S-100;S-100 Semi-Automatic;2400.0;12000.0;5;09/04/2030
+566;S-100;S-100 Semi-Automatic;2400.0;31200.0;13;03/08/2035
+567;S-100;S-100 Semi-Automatic;2400.0;40800.0;17;10/06/2027
+568;S-100;S-100 Semi-Automatic;2400.0;9600.0;4;19/10/2027
+569;S-100;S-100 Semi-Automatic;2400.0;33600.0;14;01/12/2032
+570;S-100;S-100 Semi-Automatic;2400.0;24000.0;10;27/01/2033
+571;S-100;S-100 Semi-Automatic;2400.0;12000.0;5;08/12/2028
+572;S-100;S-100 Semi-Automatic;2400.0;16800.0;7;04/01/2036
+573;S-100;S-100 Semi-Automatic;2400.0;28800.0;12;10/02/2035
+574;S-100;S-100 Semi-Automatic;2400.0;14400.0;6;01/06/2029
+575;S-100;S-100 Semi-Automatic;2400.0;4800.0;2;17/04/2032
+576;S-100;S-100 Semi-Automatic;2400.0;21600.0;9;30/04/2031
+577;S-100;S-100 Semi-Automatic;2400.0;31200.0;13;06/10/2026
+578;S-100;S-100 Semi-Automatic;2400.0;4800.0;2;04/11/2034
+579;S-100;S-100 Semi-Automatic;2400.0;45600.0;19;22/07/2028
+580;S-210;S-210 Semi-Automatic;2400.0;21600.0;9;17/10/2034
+581;S-210;S-210 Semi-Automatic;2400.0;45600.0;19;07/02/2035
+582;S-210;S-210 Semi-Automatic;2400.0;12000.0;5;18/07/2028
+583;S-210;S-210 Semi-Automatic;2400.0;43200.0;18;22/06/2034
+584;S-210;S-210 Semi-Automatic;2400.0;45600.0;19;14/06/2032
+585;S-210;S-210 Semi-Automatic;2400.0;2400.0;1;04/01/2033
+586;S-210;S-210 Semi-Automatic;2400.0;12000.0;5;09/01/2033
+587;S-210;S-210 Semi-Automatic;2400.0;43200.0;18;14/09/2026
+588;S-210;S-210 Semi-Automatic;2400.0;12000.0;5;31/08/2027
+589;S-210;S-210 Semi-Automatic;2400.0;26400.0;11;28/10/2034
+590;S-210;S-210 Semi-Automatic;2400.0;16800.0;7;23/09/2031
+591;S-210;S-210 Semi-Automatic;2400.0;28800.0;12;18/01/2027
+592;S-210;S-210 Semi-Automatic;2400.0;2400.0;1;30/10/2026
+593;S-210;S-210 Semi-Automatic;2400.0;33600.0;14;09/04/2035
+594;S-210;S-210 Semi-Automatic;2400.0;43200.0;18;07/06/2034
+595;S-210;S-210 Semi-Automatic;2400.0;33600.0;14;29/08/2035
+596;S-210;S-210 Semi-Automatic;2400.0;4800.0;2;15/09/2026
+597;S-210;S-210 Semi-Automatic;2400.0;19200.0;8;17/07/2026
+598;S-210;S-210 Semi-Automatic;2400.0;24000.0;10;22/08/2033
+599;S-210;S-210 Semi-Automatic;2400.0;33600.0;14;08/05/2031
+600;SER101;Frais d’équipement;10.0;150.0;15;21/08/2028
+601;SER101;Frais d’équipement;10.0;30.0;3;02/01/2030
+602;SER101;Frais d’équipement;10.0;160.0;16;04/12/2027
+603;SER101;Frais d’équipement;10.0;30.0;3;08/06/2033
+604;SER101;Frais d’équipement;10.0;30.0;3;02/02/2028
+605;SER101;Frais d’équipement;10.0;40.0;4;31/12/2030
+606;SER101;Frais d’équipement;10.0;100.0;10;20/02/2036
+607;SER101;Frais d’équipement;10.0;60.0;6;09/05/2034
+608;SER101;Frais d’équipement;10.0;30.0;3;22/09/2030
+609;SER101;Frais d’équipement;10.0;30.0;3;02/01/2028
+610;SER101;Frais d’équipement;10.0;120.0;12;23/08/2030
+611;SER101;Frais d’équipement;10.0;50.0;5;29/05/2030
+612;SER101;Frais d’équipement;10.0;80.0;8;01/12/2026
+613;SER101;Frais d’équipement;10.0;10.0;1;17/06/2033
+614;SER101;Frais d’équipement;10.0;30.0;3;13/07/2031
+615;SER101;Frais d’équipement;10.0;90.0;9;04/08/2033
+616;SER101;Frais d’équipement;10.0;40.0;4;29/08/2035
+617;SER101;Frais d’équipement;10.0;120.0;12;13/01/2036
+618;SER101;Frais d’équipement;10.0;50.0;5;04/01/2034
+619;SER101;Frais d’équipement;10.0;70.0;7;28/01/2036
+620;SER102;Réparer;100.0;1500.0;15;17/08/2033
+621;SER102;Réparer;100.0;1300.0;13;08/12/2027
+622;SER102;Réparer;100.0;300.0;3;18/09/2034
+623;SER102;Réparer;100.0;300.0;3;22/07/2035
+624;SER102;Réparer;100.0;100.0;1;08/06/2029
+625;SER102;Réparer;100.0;1300.0;13;15/03/2031
+626;SER102;Réparer;100.0;1900.0;19;12/04/2027
+627;SER102;Réparer;100.0;1100.0;11;21/10/2035
+628;SER102;Réparer;100.0;1000.0;10;11/06/2029
+629;SER102;Réparer;100.0;400.0;4;08/11/2026
+630;SER102;Réparer;100.0;1800.0;18;18/03/2032
+631;SER102;Réparer;100.0;1700.0;17;30/04/2031
+632;SER102;Réparer;100.0;1200.0;12;02/11/2031
+633;SER102;Réparer;100.0;1200.0;12;28/10/2035
+634;SER102;Réparer;100.0;800.0;8;11/06/2035
+635;SER102;Réparer;100.0;400.0;4;12/08/2034
+636;SER102;Réparer;100.0;600.0;6;28/11/2032
+637;SER102;Réparer;100.0;1900.0;19;12/11/2035
+638;SER102;Réparer;100.0;1700.0;17;04/02/2031
+639;SER102;Réparer;100.0;900.0;9;15/04/2032
+640;SERVICE203;Frais de projet;100.0;400.0;4;25/10/2034
+641;SERVICE203;Frais de projet;100.0;1500.0;15;19/12/2033
+642;SERVICE203;Frais de projet;100.0;300.0;3;25/04/2034
+643;SERVICE203;Frais de projet;100.0;1300.0;13;08/12/2033
+644;SERVICE203;Frais de projet;100.0;1200.0;12;07/03/2030
+645;SERVICE203;Frais de projet;100.0;1300.0;13;04/08/2035
+646;SERVICE203;Frais de projet;100.0;500.0;5;19/11/2031
+647;SERVICE203;Frais de projet;100.0;800.0;8;18/04/2035
+648;SERVICE203;Frais de projet;100.0;600.0;6;26/07/2030
+649;SERVICE203;Frais de projet;100.0;500.0;5;19/09/2026
+650;SERVICE203;Frais de projet;100.0;1800.0;18;05/06/2028
+651;SERVICE203;Frais de projet;100.0;500.0;5;12/12/2032
+652;SERVICE203;Frais de projet;100.0;700.0;7;02/10/2034
+653;SERVICE203;Frais de projet;100.0;900.0;9;01/05/2034
+654;SERVICE203;Frais de projet;100.0;1900.0;19;05/05/2032
+655;SERVICE203;Frais de projet;100.0;1000.0;10;14/07/2033
+656;SERVICE203;Frais de projet;100.0;1200.0;12;03/07/2035
+657;SERVICE203;Frais de projet;100.0;1000.0;10;07/10/2030
+658;SERVICE203;Frais de projet;100.0;500.0;5;12/12/2034
+659;SERVICE203;Frais de projet;100.0;1100.0;11;27/07/2033
+660;SP-SCM1004;AutoDrip;179.0;1611.0;9;24/02/2036
+661;SP-SCM1004;AutoDrip;179.0;1074.0;6;08/02/2030
+662;SP-SCM1004;AutoDrip;179.0;1969.0;11;01/11/2032
+663;SP-SCM1004;AutoDrip;179.0;1253.0;7;22/07/2032
+664;SP-SCM1004;AutoDrip;179.0;2685.0;15;03/07/2031
+665;SP-SCM1004;AutoDrip;179.0;179.0;1;09/05/2033
+666;SP-SCM1004;AutoDrip;179.0;3043.0;17;09/08/2035
+667;SP-SCM1004;AutoDrip;179.0;1074.0;6;17/02/2033
+668;SP-SCM1004;AutoDrip;179.0;895.0;5;25/09/2032
+669;SP-SCM1004;AutoDrip;179.0;179.0;1;16/10/2029
+670;SP-SCM1004;AutoDrip;179.0;2506.0;14;13/09/2028
+671;SP-SCM1004;AutoDrip;179.0;1611.0;9;13/08/2030
+672;SP-SCM1004;AutoDrip;179.0;2685.0;15;10/02/2030
+673;SP-SCM1004;AutoDrip;179.0;1074.0;6;21/07/2028
+674;SP-SCM1004;AutoDrip;179.0;2148.0;12;29/01/2035
+675;SP-SCM1004;AutoDrip;179.0;1432.0;8;20/10/2035
+676;SP-SCM1004;AutoDrip;179.0;2685.0;15;03/08/2030
+677;SP-SCM1004;AutoDrip;179.0;179.0;1;19/10/2035
+678;SP-SCM1004;AutoDrip;179.0;358.0;2;09/10/2029
+679;SP-SCM1004;AutoDrip;179.0;179.0;1;07/07/2035
+680;SP-SCM1006;AutoDripLite;149.0;2682.0;18;25/07/2026
+681;SP-SCM1006;AutoDripLite;149.0;298.0;2;14/07/2034
+682;SP-SCM1006;AutoDripLite;149.0;1341.0;9;06/09/2031
+683;SP-SCM1006;AutoDripLite;149.0;1788.0;12;15/09/2033
+684;SP-SCM1006;AutoDripLite;149.0;2533.0;17;07/02/2028
+685;SP-SCM1006;AutoDripLite;149.0;149.0;1;27/12/2026
+686;SP-SCM1006;AutoDripLite;149.0;2086.0;14;27/08/2029
+687;SP-SCM1006;AutoDripLite;149.0;2682.0;18;12/05/2034
+688;SP-SCM1006;AutoDripLite;149.0;2682.0;18;15/07/2029
+689;SP-SCM1006;AutoDripLite;149.0;1341.0;9;15/05/2035
+690;SP-SCM1006;AutoDripLite;149.0;298.0;2;07/02/2033
+691;SP-SCM1006;AutoDripLite;149.0;149.0;1;01/08/2030
+692;SP-SCM1006;AutoDripLite;149.0;1490.0;10;14/11/2030
+693;SP-SCM1006;AutoDripLite;149.0;1788.0;12;07/06/2030
+694;SP-SCM1006;AutoDripLite;149.0;1192.0;8;21/07/2028
+695;SP-SCM1006;AutoDripLite;149.0;1341.0;9;09/06/2028
+696;SP-SCM1006;AutoDripLite;149.0;745.0;5;11/01/2035
+697;SP-SCM1006;AutoDripLite;149.0;596.0;4;15/10/2026
+698;SP-SCM1006;AutoDripLite;149.0;596.0;4;06/02/2027
+699;SP-SCM1006;AutoDripLite;149.0;1639.0;11;12/07/2032
+700;SP-SCM1008;Airpot Lite;349.0;2792.0;8;19/06/2029
+701;SP-SCM1008;Airpot Lite;349.0;698.0;2;21/01/2033
+702;SP-SCM1008;Airpot Lite;349.0;2443.0;7;22/05/2027
+703;SP-SCM1008;Airpot Lite;349.0;4188.0;12;06/04/2027
+704;SP-SCM1008;Airpot Lite;349.0;4188.0;12;23/10/2033
+705;SP-SCM1008;Airpot Lite;349.0;3141.0;9;13/08/2029
+706;SP-SCM1008;Airpot Lite;349.0;1396.0;4;22/05/2034
+707;SP-SCM1008;Airpot Lite;349.0;3141.0;9;22/11/2028
+708;SP-SCM1008;Airpot Lite;349.0;4537.0;13;29/12/2035
+709;SP-SCM1008;Airpot Lite;349.0;349.0;1;20/10/2029
+710;SP-SCM1008;Airpot Lite;349.0;3839.0;11;11/02/2030
+711;SP-SCM1008;Airpot Lite;349.0;4886.0;14;26/10/2035
+712;SP-SCM1008;Airpot Lite;349.0;698.0;2;06/07/2030
+713;SP-SCM1008;Airpot Lite;349.0;698.0;2;15/10/2034
+714;SP-SCM1008;Airpot Lite;349.0;4886.0;14;01/03/2034
+715;SP-SCM1008;Airpot Lite;349.0;5933.0;17;19/10/2028
+716;SP-SCM1008;Airpot Lite;349.0;6282.0;18;05/05/2035
+717;SP-SCM1008;Airpot Lite;349.0;5933.0;17;28/12/2031
+718;SP-SCM1008;Airpot Lite;349.0;5235.0;15;22/12/2029
+719;SP-SCM1008;Airpot Lite;349.0;6282.0;18;25/06/2031
+720;SP-SCM1009;Airpot;399.0;4788.0;12;22/12/2026
+721;SP-SCM1009;Airpot;399.0;3591.0;9;10/11/2034
+722;SP-SCM1009;Airpot;399.0;2793.0;7;10/12/2032
+723;SP-SCM1009;Airpot;399.0;399.0;1;24/05/2033
+724;SP-SCM1009;Airpot;399.0;4389.0;11;14/01/2036
+725;SP-SCM1009;Airpot;399.0;1197.0;3;16/06/2027
+726;SP-SCM1009;Airpot;399.0;7182.0;18;26/07/2035
+727;SP-SCM1009;Airpot;399.0;5187.0;13;16/03/2028
+728;SP-SCM1009;Airpot;399.0;1596.0;4;17/11/2032
+729;SP-SCM1009;Airpot;399.0;4788.0;12;01/10/2029
+730;SP-SCM1009;Airpot;399.0;1995.0;5;03/07/2031
+731;SP-SCM1009;Airpot;399.0;5187.0;13;15/06/2034
+732;SP-SCM1009;Airpot;399.0;3591.0;9;31/03/2031
+733;SP-SCM1009;Airpot;399.0;1197.0;3;08/02/2034
+734;SP-SCM1009;Airpot;399.0;5187.0;13;08/08/2033
+735;SP-SCM1009;Airpot;399.0;6384.0;16;04/12/2031
+736;SP-SCM1009;Airpot;399.0;4788.0;12;24/03/2030
+737;SP-SCM1009;Airpot;399.0;7182.0;18;03/06/2033
+738;SP-SCM1009;Airpot;399.0;5586.0;14;07/05/2029
+739;SP-SCM1009;Airpot;399.0;1995.0;5;10/05/2027
+740;SP-SCM1011;Airpot Duo;499.0;5489.0;11;24/05/2035
+741;SP-SCM1011;Airpot Duo;499.0;1996.0;4;11/04/2035
+742;SP-SCM1011;Airpot Duo;499.0;3493.0;7;27/12/2030
+743;SP-SCM1011;Airpot Duo;499.0;7984.0;16;11/12/2035
+744;SP-SCM1011;Airpot Duo;499.0;4491.0;9;06/09/2031
+745;SP-SCM1011;Airpot Duo;499.0;3493.0;7;15/12/2033
+746;SP-SCM1011;Airpot Duo;499.0;998.0;2;13/07/2030
+747;SP-SCM1011;Airpot Duo;499.0;2495.0;5;07/12/2026
+748;SP-SCM1011;Airpot Duo;499.0;4491.0;9;26/08/2029
+749;SP-SCM1011;Airpot Duo;499.0;4990.0;10;11/08/2033
+750;SP-SCM1011;Airpot Duo;499.0;6986.0;14;20/06/2034
+751;SP-SCM1011;Airpot Duo;499.0;1497.0;3;10/01/2031
+752;SP-SCM1011;Airpot Duo;499.0;3992.0;8;12/04/2033
+753;SP-SCM1011;Airpot Duo;499.0;3493.0;7;09/03/2029
+754;SP-SCM1011;Airpot Duo;499.0;998.0;2;17/12/2028
+755;SP-SCM1011;Airpot Duo;499.0;8483.0;17;02/11/2033
+756;SP-SCM1011;Airpot Duo;499.0;7984.0;16;29/05/2029
+757;SP-SCM1011;Airpot Duo;499.0;4491.0;9;27/06/2035
+758;SP-SCM1011;Airpot Duo;499.0;1497.0;3;03/08/2030
+759;SP-SCM1011;Airpot Duo;499.0;4990.0;10;06/08/2031
+760;WDB-1000;Whole Decaf Beans, Colombia;180.0;720.0;4;28/09/2026
+761;WDB-1000;Whole Decaf Beans, Colombia;180.0;2880.0;16;07/05/2034
+762;WDB-1000;Whole Decaf Beans, Colombia;180.0;360.0;2;12/11/2026
+763;WDB-1000;Whole Decaf Beans, Colombia;180.0;1440.0;8;05/06/2031
+764;WDB-1000;Whole Decaf Beans, Colombia;180.0;3240.0;18;16/03/2034
+765;WDB-1000;Whole Decaf Beans, Colombia;180.0;2160.0;12;28/05/2028
+766;WDB-1000;Whole Decaf Beans, Colombia;180.0;1260.0;7;28/01/2030
+767;WDB-1000;Whole Decaf Beans, Colombia;180.0;2700.0;15;02/02/2034
+768;WDB-1000;Whole Decaf Beans, Colombia;180.0;360.0;2;09/03/2028
+769;WDB-1000;Whole Decaf Beans, Colombia;180.0;1260.0;7;07/08/2030
+770;WDB-1000;Whole Decaf Beans, Colombia;180.0;2700.0;15;01/01/2031
+771;WDB-1000;Whole Decaf Beans, Colombia;180.0;1620.0;9;19/02/2028
+772;WDB-1000;Whole Decaf Beans, Colombia;180.0;1620.0;9;19/07/2028
+773;WDB-1000;Whole Decaf Beans, Colombia;180.0;3060.0;17;09/05/2033
+774;WDB-1000;Whole Decaf Beans, Colombia;180.0;540.0;3;11/02/2033
+775;WDB-1000;Whole Decaf Beans, Colombia;180.0;2340.0;13;27/03/2033
+776;WDB-1000;Whole Decaf Beans, Colombia;180.0;1440.0;8;03/11/2031
+777;WDB-1000;Whole Decaf Beans, Colombia;180.0;1620.0;9;02/07/2031
+778;WDB-1000;Whole Decaf Beans, Colombia;180.0;360.0;2;31/12/2035
+779;WDB-1000;Whole Decaf Beans, Colombia;180.0;180.0;1;02/11/2029
+780;WDB-1001;Whole Decaf Beans, Brazil;210.0;3570.0;17;04/08/2032
+781;WDB-1001;Whole Decaf Beans, Brazil;210.0;1470.0;7;03/07/2026
+782;WDB-1001;Whole Decaf Beans, Brazil;210.0;3990.0;19;15/11/2031
+783;WDB-1001;Whole Decaf Beans, Brazil;210.0;2730.0;13;28/03/2031
+784;WDB-1001;Whole Decaf Beans, Brazil;210.0;2940.0;14;11/08/2035
+785;WDB-1001;Whole Decaf Beans, Brazil;210.0;1680.0;8;24/03/2035
+786;WDB-1001;Whole Decaf Beans, Brazil;210.0;1680.0;8;22/03/2028
+787;WDB-1001;Whole Decaf Beans, Brazil;210.0;1050.0;5;02/05/2030
+788;WDB-1001;Whole Decaf Beans, Brazil;210.0;2730.0;13;04/12/2035
+789;WDB-1001;Whole Decaf Beans, Brazil;210.0;1050.0;5;25/10/2030
+790;WDB-1001;Whole Decaf Beans, Brazil;210.0;2730.0;13;14/02/2028
+791;WDB-1001;Whole Decaf Beans, Brazil;210.0;2100.0;10;04/07/2033
+792;WDB-1001;Whole Decaf Beans, Brazil;210.0;2520.0;12;24/10/2026
+793;WDB-1001;Whole Decaf Beans, Brazil;210.0;840.0;4;14/08/2035
+794;WDB-1001;Whole Decaf Beans, Brazil;210.0;1680.0;8;03/05/2030
+795;WDB-1001;Whole Decaf Beans, Brazil;210.0;3990.0;19;15/10/2029
+796;WDB-1001;Whole Decaf Beans, Brazil;210.0;1050.0;5;04/07/2034
+797;WDB-1001;Whole Decaf Beans, Brazil;210.0;3780.0;18;01/07/2026
+798;WDB-1001;Whole Decaf Beans, Brazil;210.0;3780.0;18;01/09/2030
+799;WDB-1001;Whole Decaf Beans, Brazil;210.0;3360.0;16;15/10/2030
+800;WDB-1002;Whole Decaf Beans, Indonesia;210.0;630.0;3;16/09/2028
+801;WDB-1002;Whole Decaf Beans, Indonesia;210.0;1050.0;5;20/01/2031
+802;WDB-1002;Whole Decaf Beans, Indonesia;210.0;1470.0;7;28/06/2028
+803;WDB-1002;Whole Decaf Beans, Indonesia;210.0;1260.0;6;18/04/2033
+804;WDB-1002;Whole Decaf Beans, Indonesia;210.0;1050.0;5;16/05/2032
+805;WDB-1002;Whole Decaf Beans, Indonesia;210.0;420.0;2;29/03/2028
+806;WDB-1002;Whole Decaf Beans, Indonesia;210.0;3150.0;15;10/07/2031
+807;WDB-1002;Whole Decaf Beans, Indonesia;210.0;1470.0;7;07/05/2029
+808;WDB-1002;Whole Decaf Beans, Indonesia;210.0;3990.0;19;13/09/2027
+809;WDB-1002;Whole Decaf Beans, Indonesia;210.0;1890.0;9;18/05/2033
+810;WDB-1002;Whole Decaf Beans, Indonesia;210.0;2940.0;14;17/01/2035
+811;WDB-1002;Whole Decaf Beans, Indonesia;210.0;1260.0;6;17/11/2026
+812;WDB-1002;Whole Decaf Beans, Indonesia;210.0;1680.0;8;25/11/2027
+813;WDB-1002;Whole Decaf Beans, Indonesia;210.0;3990.0;19;20/12/2033
+814;WDB-1002;Whole Decaf Beans, Indonesia;210.0;1890.0;9;19/05/2034
+815;WDB-1002;Whole Decaf Beans, Indonesia;210.0;210.0;1;17/10/2030
+816;WDB-1002;Whole Decaf Beans, Indonesia;210.0;2520.0;12;25/02/2029
+817;WDB-1002;Whole Decaf Beans, Indonesia;210.0;2730.0;13;09/10/2033
+818;WDB-1002;Whole Decaf Beans, Indonesia;210.0;3990.0;19;06/11/2033
+819;WDB-1002;Whole Decaf Beans, Indonesia;210.0;2310.0;11;10/03/2029
+820;WDB-1003;Whole Decaf Beans, Mexico;210.0;2310.0;11;09/06/2027
+821;WDB-1003;Whole Decaf Beans, Mexico;210.0;2730.0;13;09/08/2029
+822;WDB-1003;Whole Decaf Beans, Mexico;210.0;3150.0;15;16/11/2027
+823;WDB-1003;Whole Decaf Beans, Mexico;210.0;3990.0;19;10/08/2030
+824;WDB-1003;Whole Decaf Beans, Mexico;210.0;630.0;3;01/12/2031
+825;WDB-1003;Whole Decaf Beans, Mexico;210.0;3570.0;17;07/03/2029
+826;WDB-1003;Whole Decaf Beans, Mexico;210.0;2100.0;10;25/06/2027
+827;WDB-1003;Whole Decaf Beans, Mexico;210.0;3150.0;15;12/05/2029
+828;WDB-1003;Whole Decaf Beans, Mexico;210.0;1470.0;7;22/09/2030
+829;WDB-1003;Whole Decaf Beans, Mexico;210.0;1050.0;5;21/04/2035
+830;WDB-1003;Whole Decaf Beans, Mexico;210.0;420.0;2;17/01/2030
+831;WDB-1003;Whole Decaf Beans, Mexico;210.0;2310.0;11;16/09/2027
+832;WDB-1003;Whole Decaf Beans, Mexico;210.0;420.0;2;27/02/2033
+833;WDB-1003;Whole Decaf Beans, Mexico;210.0;2730.0;13;18/07/2030
+834;WDB-1003;Whole Decaf Beans, Mexico;210.0;2940.0;14;09/01/2027
+835;WDB-1003;Whole Decaf Beans, Mexico;210.0;3780.0;18;26/09/2028
+836;WDB-1003;Whole Decaf Beans, Mexico;210.0;840.0;4;13/08/2026
+837;WDB-1003;Whole Decaf Beans, Mexico;210.0;2730.0;13;02/06/2035
+838;WDB-1003;Whole Decaf Beans, Mexico;210.0;1470.0;7;18/05/2031
+839;WDB-1003;Whole Decaf Beans, Mexico;210.0;630.0;3;26/01/2036
+840;WDB-1004;Whole Decaf Beans, Kenya;210.0;3360.0;16;13/03/2032
+841;WDB-1004;Whole Decaf Beans, Kenya;210.0;210.0;1;24/06/2027
+842;WDB-1004;Whole Decaf Beans, Kenya;210.0;1680.0;8;02/12/2033
+843;WDB-1004;Whole Decaf Beans, Kenya;210.0;210.0;1;15/12/2035
+844;WDB-1004;Whole Decaf Beans, Kenya;210.0;3360.0;16;15/05/2035
+845;WDB-1004;Whole Decaf Beans, Kenya;210.0;2520.0;12;03/08/2033
+846;WDB-1004;Whole Decaf Beans, Kenya;210.0;3570.0;17;27/03/2036
+847;WDB-1004;Whole Decaf Beans, Kenya;210.0;1260.0;6;03/06/2035
+848;WDB-1004;Whole Decaf Beans, Kenya;210.0;1260.0;6;31/05/2027
+849;WDB-1004;Whole Decaf Beans, Kenya;210.0;2310.0;11;05/02/2031
+850;WDB-1004;Whole Decaf Beans, Kenya;210.0;1890.0;9;09/09/2033
+851;WDB-1004;Whole Decaf Beans, Kenya;210.0;1470.0;7;20/05/2029
+852;WDB-1004;Whole Decaf Beans, Kenya;210.0;210.0;1;09/08/2033
+853;WDB-1004;Whole Decaf Beans, Kenya;210.0;420.0;2;21/12/2027
+854;WDB-1004;Whole Decaf Beans, Kenya;210.0;3990.0;19;16/05/2034
+855;WDB-1004;Whole Decaf Beans, Kenya;210.0;3360.0;16;07/03/2027
+856;WDB-1004;Whole Decaf Beans, Kenya;210.0;210.0;1;09/12/2026
+857;WDB-1004;Whole Decaf Beans, Kenya;210.0;1890.0;9;02/02/2029
+858;WDB-1004;Whole Decaf Beans, Kenya;210.0;2310.0;11;25/07/2029
+859;WDB-1004;Whole Decaf Beans, Kenya;210.0;840.0;4;19/04/2032
+860;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;3990.0;19;27/06/2029
+861;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;1050.0;5;21/04/2027
+862;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;2940.0;14;31/01/2029
+863;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;630.0;3;19/01/2036
+864;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;630.0;3;17/09/2035
+865;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;420.0;2;20/08/2027
+866;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;1470.0;7;18/07/2034
+867;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;1890.0;9;27/03/2034
+868;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;3150.0;15;17/07/2029
+869;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;840.0;4;13/09/2035
+870;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;210.0;1;14/03/2033
+871;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;3150.0;15;08/03/2029
+872;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;3780.0;18;16/01/2032
+873;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;630.0;3;26/02/2029
+874;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;3780.0;18;25/08/2032
+875;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;630.0;3;20/05/2026
+876;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;420.0;2;13/02/2035
+877;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;3150.0;15;13/08/2029
+878;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;1470.0;7;05/07/2027
+879;WDB-1005;Whole Decaf Beans, Costa Rica;210.0;1890.0;9;10/11/2029
+880;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;1680.0;8;09/10/2030
+881;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;210.0;1;22/02/2035
+882;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;1050.0;5;07/07/2030
+883;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;2310.0;11;29/05/2031
+884;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;420.0;2;27/11/2029
+885;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;2940.0;14;09/03/2029
+886;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;1260.0;6;30/12/2030
+887;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;840.0;4;02/02/2029
+888;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;1050.0;5;16/02/2035
+889;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;3780.0;18;25/06/2035
+890;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;3360.0;16;22/03/2030
+891;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;3780.0;18;03/03/2032
+892;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;840.0;4;19/02/2028
+893;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;1470.0;7;02/04/2028
+894;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;2310.0;11;19/12/2032
+895;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;3150.0;15;30/06/2029
+896;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;3150.0;15;13/12/2027
+897;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;2730.0;13;29/02/2028
+898;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;1050.0;5;12/10/2028
+899;WDB-1006;Whole Decaf Beans, Ethiopia;210.0;3360.0;16;22/12/2033
+900;WDB-1007;Whole Decaf Beans, Hawaii;210.0;2520.0;12;25/08/2027
+901;WDB-1007;Whole Decaf Beans, Hawaii;210.0;2100.0;10;19/07/2032
+902;WDB-1007;Whole Decaf Beans, Hawaii;210.0;1050.0;5;16/08/2031
+903;WDB-1007;Whole Decaf Beans, Hawaii;210.0;1890.0;9;31/10/2029
+904;WDB-1007;Whole Decaf Beans, Hawaii;210.0;630.0;3;08/09/2033
+905;WDB-1007;Whole Decaf Beans, Hawaii;210.0;2310.0;11;02/04/2028
+906;WDB-1007;Whole Decaf Beans, Hawaii;210.0;1050.0;5;11/10/2028
+907;WDB-1007;Whole Decaf Beans, Hawaii;210.0;3360.0;16;08/04/2028
+908;WDB-1007;Whole Decaf Beans, Hawaii;210.0;2520.0;12;12/07/2028
+909;WDB-1007;Whole Decaf Beans, Hawaii;210.0;3570.0;17;29/05/2034
+910;WDB-1007;Whole Decaf Beans, Hawaii;210.0;3990.0;19;08/02/2032
+911;WDB-1007;Whole Decaf Beans, Hawaii;210.0;210.0;1;11/01/2031
+912;WDB-1007;Whole Decaf Beans, Hawaii;210.0;3990.0;19;06/10/2029
+913;WDB-1007;Whole Decaf Beans, Hawaii;210.0;3570.0;17;28/11/2026
+914;WDB-1007;Whole Decaf Beans, Hawaii;210.0;420.0;2;04/10/2030
+915;WDB-1007;Whole Decaf Beans, Hawaii;210.0;840.0;4;26/05/2030
+916;WDB-1007;Whole Decaf Beans, Hawaii;210.0;3570.0;17;19/08/2034
+917;WDB-1007;Whole Decaf Beans, Hawaii;210.0;3990.0;19;10/09/2029
+918;WDB-1007;Whole Decaf Beans, Hawaii;210.0;1470.0;7;21/02/2036
+919;WDB-1007;Whole Decaf Beans, Hawaii;210.0;420.0;2;31/01/2030
+920;WRB-1003;Whole Roasted Beans, Mexico;180.0;180.0;1;15/03/2035
+921;WRB-1003;Whole Roasted Beans, Mexico;180.0;2880.0;16;07/12/2029
+922;WRB-1003;Whole Roasted Beans, Mexico;180.0;1260.0;7;27/11/2027
+923;WRB-1003;Whole Roasted Beans, Mexico;180.0;3060.0;17;11/05/2035
+924;WRB-1003;Whole Roasted Beans, Mexico;180.0;1260.0;7;05/04/2028
+925;WRB-1003;Whole Roasted Beans, Mexico;180.0;3240.0;18;03/04/2027
+926;WRB-1003;Whole Roasted Beans, Mexico;180.0;2160.0;12;15/06/2029
+927;WRB-1003;Whole Roasted Beans, Mexico;180.0;3420.0;19;29/11/2034
+928;WRB-1003;Whole Roasted Beans, Mexico;180.0;720.0;4;06/12/2029
+929;WRB-1003;Whole Roasted Beans, Mexico;180.0;2880.0;16;09/01/2030
+930;WRB-1003;Whole Roasted Beans, Mexico;180.0;1980.0;11;06/01/2028
+931;WRB-1003;Whole Roasted Beans, Mexico;180.0;1260.0;7;04/12/2034
+932;WRB-1003;Whole Roasted Beans, Mexico;180.0;3420.0;19;30/04/2028
+933;WRB-1003;Whole Roasted Beans, Mexico;180.0;1080.0;6;02/07/2028
+934;WRB-1003;Whole Roasted Beans, Mexico;180.0;1080.0;6;17/12/2035
+935;WRB-1003;Whole Roasted Beans, Mexico;180.0;900.0;5;26/09/2031
+936;WRB-1003;Whole Roasted Beans, Mexico;180.0;1080.0;6;06/07/2027
+937;WRB-1003;Whole Roasted Beans, Mexico;180.0;1260.0;7;16/06/2026
+938;WRB-1003;Whole Roasted Beans, Mexico;180.0;360.0;2;27/08/2034
+939;WRB-1003;Whole Roasted Beans, Mexico;180.0;1080.0;6;03/01/2033
+940;WRB-1004;Whole Roasted Beans, Kenya;180.0;1080.0;6;16/11/2031
+941;WRB-1004;Whole Roasted Beans, Kenya;180.0;2340.0;13;15/10/2030
+942;WRB-1004;Whole Roasted Beans, Kenya;180.0;1260.0;7;12/01/2032
+943;WRB-1004;Whole Roasted Beans, Kenya;180.0;2340.0;13;05/12/2028
+944;WRB-1004;Whole Roasted Beans, Kenya;180.0;900.0;5;27/06/2034
+945;WRB-1004;Whole Roasted Beans, Kenya;180.0;3240.0;18;16/02/2030
+946;WRB-1004;Whole Roasted Beans, Kenya;180.0;1260.0;7;27/04/2034
+947;WRB-1004;Whole Roasted Beans, Kenya;180.0;3420.0;19;14/10/2035
+948;WRB-1004;Whole Roasted Beans, Kenya;180.0;360.0;2;04/09/2032
+949;WRB-1004;Whole Roasted Beans, Kenya;180.0;720.0;4;09/07/2032
+950;WRB-1004;Whole Roasted Beans, Kenya;180.0;1440.0;8;16/03/2032
+951;WRB-1004;Whole Roasted Beans, Kenya;180.0;360.0;2;25/11/2034
+952;WRB-1004;Whole Roasted Beans, Kenya;180.0;180.0;1;12/06/2034
+953;WRB-1004;Whole Roasted Beans, Kenya;180.0;360.0;2;08/10/2034
+954;WRB-1004;Whole Roasted Beans, Kenya;180.0;2700.0;15;02/05/2034
+955;WRB-1004;Whole Roasted Beans, Kenya;180.0;1980.0;11;08/09/2027
+956;WRB-1004;Whole Roasted Beans, Kenya;180.0;2880.0;16;04/07/2027
+957;WRB-1004;Whole Roasted Beans, Kenya;180.0;1080.0;6;22/12/2028
+958;WRB-1004;Whole Roasted Beans, Kenya;180.0;1440.0;8;24/06/2027
+959;WRB-1004;Whole Roasted Beans, Kenya;180.0;360.0;2;05/12/2029
+960;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;180.0;1;28/03/2032
+961;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;3420.0;19;05/08/2035
+962;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;1620.0;9;06/05/2035
+963;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;3060.0;17;31/10/2032
+964;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;1800.0;10;20/07/2033
+965;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;1080.0;6;30/04/2031
+966;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;1080.0;6;29/11/2029
+967;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;1620.0;9;27/06/2033
+968;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;2880.0;16;31/03/2030
+969;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;900.0;5;21/08/2028
+970;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;1080.0;6;26/05/2028
+971;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;900.0;5;22/10/2032
+972;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;2160.0;12;31/07/2031
+973;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;1260.0;7;19/04/2032
+974;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;1440.0;8;03/12/2027
+975;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;2700.0;15;02/06/2033
+976;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;720.0;4;05/10/2030
+977;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;3420.0;19;11/12/2033
+978;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;3060.0;17;23/02/2028
+979;WRB-1005;Whole Roasted Beans, COSTA RICA;180.0;2880.0;16;07/10/2031
+980;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;2160.0;12;29/10/2032
+981;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;1080.0;6;12/05/2027
+982;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;2520.0;14;29/10/2030
+983;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;1800.0;10;27/10/2028
+984;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;1980.0;11;27/06/2028
+985;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;1260.0;7;22/02/2032
+986;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;2160.0;12;25/11/2034
+987;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;1800.0;10;23/12/2030
+988;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;2700.0;15;23/12/2030
+989;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;900.0;5;05/09/2030
+990;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;540.0;3;01/04/2031
+991;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;360.0;2;07/07/2032
+992;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;720.0;4;10/04/2034
+993;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;1800.0;10;26/10/2033
+994;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;3240.0;18;06/09/2031
+995;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;2700.0;15;06/05/2030
+996;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;3240.0;18;28/08/2032
+997;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;2700.0;15;12/01/2028
+998;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;1980.0;11;21/03/2030
+999;WRB-1006;Whole Roasted Beans, ETHIOPIA;180.0;2880.0;16;21/01/2028
+1000;WRB-1007;Whole Roasted Beans, HAWAII;180.0;1620.0;9;26/09/2032
+1001;WRB-1007;Whole Roasted Beans, HAWAII;180.0;540.0;3;16/08/2032
+1002;WRB-1007;Whole Roasted Beans, HAWAII;180.0;1080.0;6;02/04/2032
+1003;WRB-1007;Whole Roasted Beans, HAWAII;180.0;3240.0;18;06/10/2026
+1004;WRB-1007;Whole Roasted Beans, HAWAII;180.0;3240.0;18;18/12/2033
+1005;WRB-1007;Whole Roasted Beans, HAWAII;180.0;2160.0;12;31/01/2032
+1006;WRB-1007;Whole Roasted Beans, HAWAII;180.0;2520.0;14;19/01/2032
+1007;WRB-1007;Whole Roasted Beans, HAWAII;180.0;540.0;3;21/09/2026
+1008;WRB-1007;Whole Roasted Beans, HAWAII;180.0;1980.0;11;26/10/2030
+1009;WRB-1007;Whole Roasted Beans, HAWAII;180.0;1260.0;7;04/03/2031
+1010;WRB-1007;Whole Roasted Beans, HAWAII;180.0;1620.0;9;05/06/2028
+1011;WRB-1007;Whole Roasted Beans, HAWAII;180.0;1980.0;11;27/08/2032
+1012;WRB-1007;Whole Roasted Beans, HAWAII;180.0;3060.0;17;24/10/2027
+1013;WRB-1007;Whole Roasted Beans, HAWAII;180.0;3420.0;19;06/06/2029
+1014;WRB-1007;Whole Roasted Beans, HAWAII;180.0;900.0;5;20/09/2029
+1015;WRB-1007;Whole Roasted Beans, HAWAII;180.0;2880.0;16;23/06/2034
+1016;WRB-1007;Whole Roasted Beans, HAWAII;180.0;360.0;2;27/04/2032
+1017;WRB-1007;Whole Roasted Beans, HAWAII;180.0;1080.0;6;25/03/2030
+1018;WRB-1007;Whole Roasted Beans, HAWAII;180.0;1620.0;9;25/01/2034
+1019;WRB-1007;Whole Roasted Beans, HAWAII;180.0;1800.0;10;13/08/2033
